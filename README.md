@@ -1,2 +1,5 @@
 # Face3DBlender
  Face Animation 
+ 3D human face modeling has been a persistent challenge in both computer vision and computer graphics. Face modeling refers to modeling the 3D geometry of static or non-static human faces which lays the foundation for model based face analysis and facial animations. In this paper we have surveyed the various methods available for generating 3D human face models. Currently, the 3D face models can be captured using the active range scanners like laser or structured light; or reconstructed from the 2D images acquired by the passive techniques. Shape from X and Model based reconstruction techniques are the most commonly used methods for reconstructing the 3D face model based on these 2D image(s). However, the choice of the appropriate 3D reconstruction algorithm relies greatly on the available resources as well as the intended application.
+Animation are being applied to these human faces to show realistic behaviour of the model. These are used mostly in game charecters, 3D Imaging, Ads development, in movies and many others. We are using Blender as a software to create a 3D face behaviour of a human beings
+
